@@ -1,7 +1,8 @@
 # gity
 
 Just a sample to simpilify :)
-/************************* SETTINGS *****************************/
+
+#/************************* SETTINGS *****************************/
 p.s. git config can be changed in file .gitconfig or in console:
 
 CONFIGURE GIT (optional)
