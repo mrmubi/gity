@@ -1,8 +1,6 @@
 # gity
 
-Just a sample to simpilify :)
-
-#/************************* SETTINGS *****************************/
+/************************* SETTINGS *****************************/
 p.s. git config can be changed in file .gitconfig or in console:
 
 CONFIGURE GIT (optional)
@@ -203,3 +201,4 @@ https://www.atlassian.com/git/tutorials/
 RUS
 http://githowto.com/ru
 http://git-scm.com/book/ru/v1
+
